@@ -1,0 +1,160 @@
+.bgcolor
+{
+    background-color: white;
+    height: 110vh;
+    width: 30vw;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+.img
+{
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+.text
+{
+    font-size: 20px;
+}
+.button
+{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+.card1
+{
+    height: 22vh;
+    width: 28vw;
+    background-color: lightskyblue;
+    border-radius: 20px;
+    margin: 23px;
+    margin-left: 14px;
+}
+.img1
+{
+    height: 60px;
+    width: 70px;
+    background-size: cover;
+    margin-top: 25px;
+}
+.text1
+{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.text2
+{
+    font-size: 20px;
+    margin-left: 15px;
+}
+.card3
+{
+    height:14vh;
+    width: 6vw;
+    background-color: rgb(136, 147, 136);
+    border-radius: 10px;
+    margin-top: 19px;
+    margin-left: 20px;
+}
+.img2
+{
+    height: 45px;
+    width: 58px;
+    background-size: cover;
+    margin-top: 10px;
+     
+      
+}
+.card4
+{
+    height:14vh;
+    width: 180px;
+    background-color: rgb(136, 147, 136);
+    border-radius: 10px;
+    margin-top: 1px;
+    margin-left: 50px;
+}
+
+.img3
+{
+    height: 40px;
+    width: 80px;
+    background-size: cover;
+    margin-top: 10px; 
+      
+}
+.card5
+{
+    height:14vh;
+    width: 30vw;
+    background-color: blue;
+    border-radius: 10px;
+    margin-top: 1px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.img4
+{
+    height: 40px;
+    width: 80px;
+    background-size: cover;
+    margin-top: 10px; 
+    
+      
+}
+.text3
+{
+    font-size: 11px;
+    text-align: end;
+    margin-top: 4px;
+    color: white;
+}
+.text4
+{
+    font-size: 11px;
+    text-align: center;
+    margin-top: 7px;
+    color: white;
+}
+.videos
+{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.card6
+{
+    height: 25vh;
+    width: 28vw;
+    background-color: lightpink;
+    border-radius: 20px;
+   
+}
+.img5
+{
+    height: 69px;
+    width: 55px;
+    margin-top: 20px;
+}
+.text5
+{
+    font-size: 20px;
+    margin:20px;   
+}
+.text6
+{
+    font-size: 10px;
+    margin-left: 19px;
+}
+.videos1
+{
+    font-size: 12px;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color:blue;
+    padding: 6px;
+    color: white;
+    
+}

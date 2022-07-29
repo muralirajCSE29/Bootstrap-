@@ -1,0 +1,50 @@
+.bgcolor
+{
+    background-color: orange;
+    height: 110vh;
+    width: 40vw;
+    margin: 0px auto;
+    background-size: cover;  
+margin-top: 20px;
+}
+.card1
+{
+    background-image: url(Nemo.jpg);
+    height: 70vh;
+    background-size: cover;
+    border-radius: 50px;
+    width: 38vw;
+    margin-left: 12px;
+    margin-right: 15px;
+    border-top: 30px;
+   
+}
+.nemo
+{
+    color: antiquewhite;
+    padding: -50px;
+    
+}
+.button
+{
+    float: right;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    color: red;
+}
+.para
+{
+    color: antiquewhite;
+}
+.text2
+{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.dory
+{
+    height: 30vh;
+    width: 10vw;
+    padding: 10px;
+    
+}

@@ -1,0 +1,41 @@
+.bgimg
+{
+    background-image: url(news.png);
+    height: 90vh;
+    background-size: cover;
+    margin: 0px auto;
+    width: 30vw;
+    margin-top: 20px;
+
+}
+.card1
+{
+    height: 80vh;
+    width: 30vw;
+    background-color: white;
+    margin-top: 300px;
+}
+.text1
+{
+    font-size: 15px;
+    color: lightslategray;
+    padding: 15px;
+}
+.text2
+{
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+}
+.para
+{
+    font-size: 15px;
+    color:grey;
+}
+.button
+{
+    color:antiquewhite;
+    border-radius: 5px;
+    background-color:#161b24;
+    padding: 10px;
+}

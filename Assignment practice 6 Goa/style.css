@@ -1,0 +1,37 @@
+.goa
+{
+    background-color:white;
+    height: 98vh;
+    width: 30vw;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+.text
+{
+    font-size: 20px;
+}
+.para
+{
+    color:grey;
+    font-size: 15px;
+}
+.text2
+{
+    font-size: 17px;
+}
+.small
+{
+    padding: 10px;
+}
+.video
+{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.video1
+{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
